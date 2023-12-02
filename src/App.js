@@ -20,11 +20,11 @@ class App extends Component {
 
   applyPickedLanguage = (pickedLanguage, oppositeLangIconId) => {
     this.swapCurrentlyActiveLanguage(oppositeLangIconId);
-    document.documentElement.lang = pickedLanguage;
-    var resumePath =
-      document.documentElement.lang === window.$primaryLanguage
-        ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+  
+    // Always set the language to the primary language
+    document.documentElement.lang = window.$primaryLanguage;
+    var resumePath = `res_primaryLanguage.json`;
+  
     this.loadResumeFromPath(resumePath);
   }
 
