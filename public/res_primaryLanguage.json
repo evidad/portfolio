@@ -18,19 +18,19 @@
           "images/portfolio/animal-shelter/p1.PNG",
           "images/portfolio/animal-shelter/p2.PNG"
         ],
-        "url": "",
+        "url": "https://github.com/djcodejam/listening-room",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -42,11 +42,15 @@
           "images/portfolio/photography/p1.PNG",
           "images/portfolio/photography/p2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Code-Fellows-School-Work/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,9 +59,9 @@
         ]
       },
       {
-        "title": "Place Holder",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "CineMood",
+        "startDate": "2023",
+        "description": "Finding a movie to watch may take longer than watching a movie. CineMood allows the user to receive a movie recommendation based off the genre they choose and their current mood.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,16 +69,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           }
         ]
       }
