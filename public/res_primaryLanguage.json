@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Errol Vidad, PMP, Top Secret/SCI",
-      "description": "👋 Hi, I'm Errol Vidad. Naval Officer ==> Project Manager ==> Systems Analyst ==> Software Developer. I have over a decade of military experience in both active and reserve naval components and a year of defense contracting work in information systems. I am passionate about formulating innovative software solutions to address military challenges and I would like to bring my diverse expertise to benefit meaningful projects in the defense sector.",
+      "description": "👋 Hi, I'm Errol Vidad, Software Developer and US Navy Veteran. I have over a decade of military experience in both leadership and management roles and a year of defense contracting work as an analyst for an online web application. I am passionate about formulating innovative software solutions to address military challenges and I would like to bring my diverse expertise to benefit meaningful projects in defense technology.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -92,10 +92,12 @@
           "React"
         ],
         "technologies": [
-          "HTML5",
-          "CSS",
+          "GitBash",
+          "Python",
           "JavaScript",
           "React",
+          "HTML5",
+          "CSS",
           "Bootstrap",
           "REST API",
           "MongoDB",
@@ -110,7 +112,8 @@
           "GitLab"
         ],
         "technologies": [
-          "Markdown"
+          "Markdown",
+          "GitLab"
         ]
       },
       {
@@ -118,10 +121,23 @@
         "title": "Naval Officer",
         "years": "05.2014 - 10.2022",
         "mainTech": [
-          "Leadership and Management"
+          "Leadership and Management",
+          "Communication",
+          "Team Work and Collaboration"
         ],
         "technologies": [
-         
+         "Top Secret/SCI Clearance"
+        ]
+      },
+      {
+        "company": "Jacksonville University",
+        "title": "Student",
+        "years": "08.2010 - 04.2014",
+        "mainTech": [
+          "B.S. Mathematics"
+        ],
+        "technologies": [
+         "Secret Clearance"
         ]
       }
     ]
