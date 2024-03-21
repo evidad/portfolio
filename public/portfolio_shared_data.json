@@ -24,6 +24,11 @@
           "level": "95"
         },
         {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"

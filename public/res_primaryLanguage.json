@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Errol Vidad, PMP, Top Secret/SCI",
-      "description": "👋 Hi, I'm Errol Vidad, Software Developer and US Navy Veteran. I have over a decade of military experience in both leadership and management roles and a year of user stories development for a online web application. I am passionate about formulating innovative software solutions to address military challenges and I would like to bring my diverse expertise to benefit meaningful projects in defense technology.",
+      "description": "👋 Hi, I'm Errol Vidad a Navy Veteran with a background in Mathematics. While in the Navy, I planned operations to hunt submarines, I oversaw maintenace plans for an engineering plant, and I taught trigonmetry and it's application to Navy tactics. After nearly a decade of active service, I separated and began work as a systems analyst for a Navy website. I was responsible for collecting and understanding customer requirements, I developed documentation, and I provided training on website best practices. Eventually, I decided I wanted to be more involved in tech especially the development side so I left my job to pursue an education in software development. I enrolled and recently completed a 6-month coding bootcamp and now I'm proficient in full-stack application development using Python and JavaScript. I'm currently seeking employment and I'm looking for opportunities with a defense tech company so I can combine my military background and software development skills to help positively impact military or federal organizations.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,54 +11,6 @@
     },
     "projects": [
       {
-        "title": "Listening Room",
-        "startDate": "2023",
-        "description": "Navigating the quest to discover music suitable for various moods can often become monotonous. The Listening Room offers users the opportunity to receive fresh music recommendations by aligning with animated video selections that resonate with their current mood.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.PNG",
-          "images/portfolio/animal-shelter/p2.PNG"
-        ],
-        "url": "https://github.com/djcodejam/listening-room",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Salmon Cookies",
-        "startDate": "2023",
-        "description": "Personal project for a study subject. I was responsible for developing an application that dynamically renders new data when a user enters information about a new city and its corresponding sales data into a form. The application then appends this newly entered data to an already existing table.",
-        "images": [
-          "images/portfolio/photography/p1.PNG",
-          "images/portfolio/photography/p2.PNG"
-        ],
-        "url": "https://github.com/Code-Fellows-School-Work/cookie-stand",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
         "title": "CineMood",
         "startDate": "2023",
         "description": "Finding a movie to watch may take longer than watching a movie. CineMood allows the user to receive a movie recommendation based off the genre they choose and their current mood.",
@@ -66,19 +18,55 @@
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/DJ-Code-Radio",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-express-original",
-            "name": "Express"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJS"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Prismatic Puzzle",
+        "startDate": "2024",
+        "description": "Desktop app developed for users interested in increasing problem-solving skills through a fun and challenging digital puzzle game.",
+        "images": [
+          "images/portfolio/photography/p1.PNG",
+          "images/portfolio/photography/p2.PNG"
+        ],
+        "url": "https://github.com/Alpha-Code-Collective",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Sunbursts",
+        "startDate": "2024",
+        "description": "Data visualization tool designed to enhance strategic decision-making for BeSpace Consulting services. Generates circular bar plots that visually represent complex datasets for clearer, insight-driven business decisions.",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://github.com/evidad/sunbursts",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
           }
         ]
       }
@@ -87,20 +75,23 @@
       {
         "company": "Code Fellows",
         "title": "Software Developer Student",
-        "years": "10.2023 - present",
+        "years": "10.2023 - 03.2024",
         "mainTech": [
           "React"
         ],
         "technologies": [
           "GitBash",
           "Python",
+          "Django",
           "JavaScript",
           "React",
+          "NextJS",
           "HTML5",
           "CSS",
           "Bootstrap",
           "REST API",
           "MongoDB",
+          "PostgreSQL",
           "GitHub"
         ]
       },
